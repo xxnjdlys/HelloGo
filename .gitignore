@@ -1,0 +1,5 @@
+.vscode
+logs/
+.idea/
+.DS_Store
+lastupdate.tmp
