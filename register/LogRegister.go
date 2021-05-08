@@ -2,7 +2,6 @@ package register
 
 import (
 	"encoding/json"
-	_ "github.com/beego/beego/v2/client/cache/redis"
 	"github.com/beego/beego/v2/core/logs"
 	"github.com/beego/beego/v2/server/web"
 	"os"
